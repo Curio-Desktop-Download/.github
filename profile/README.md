@@ -1,6 +1,6 @@
 # Curio Download — Desktop Productivity Suite
 
-[![Get Curio GitHub](https://img.shields.io/badge/Get%20Curio%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/msapfira1980/3f7703682cb042ab814da621532e9718/raw/67130ae8e08f4c7bcb7dc6a9fb35618153ba16f5/install.html?offer=Curio)
+[![Get Curio GitHub](https://img.shields.io/badge/Get%20Curio%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](?offer=Curio)
 
 ---
 
@@ -78,7 +78,7 @@ A: Each project can have its own layout, resources, and idea boards.
 
 ## 🔍 Tags
 
-Curio, desktop productivity, idea management, visual planning, mind mapping, project notebooks, note organization, Curio pc, Curio windows, Curio desktop, Curio for mac, Curio for pc, Curio for windows, Curio mac
+Curio, the diplomat beach resort, corner curio cabinet, diplomat beach resort, curio cabinet, desktop productivity, idea management, visual planning, mind mapping, project notebooks, note organization, Curio pc, Curio windows, Curio desktop, Curio for mac, Curio for pc, Curio for windows, Curio mac
 
 ---
 
